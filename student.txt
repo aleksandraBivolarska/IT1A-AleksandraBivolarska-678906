@@ -1,0 +1,4 @@
+Student name: Aleksandra Bivolarska
+Student number: 678906
+Student class: IT1A
+URL GitHub Repository: https://github.com/aleksandrabivolarska/IT1A-AleksandraBivolarska-678906
